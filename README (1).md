@@ -1,4 +1,4 @@
-# Celebal final Project
+# Project
 
 This repository aims to learn and showcase some features of Databricks.
 This is used as hands on preparation for Databricks Data Engineer Associate certification exam.
